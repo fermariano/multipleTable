@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Roboto+Mono:wght@700&family=Roboto:wght@700&family=Source+Code+Pro:wght@500&display=swap');
+
+body {
+    background-color: #FAF7F0;
+}
+
+header {
+    text-align: center;
+    font-size: 40px;
+    font-family: Roboto Mono;
+}
+
+section {
+    text-align: center;
+    background-color: #98A8F8;
+    height: 500px;
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: Roboto Mono;
+    border-radius: 15px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.37);
+    font-size: 20px;
+}
+
+#tabuada {
+    margin-top: 20px;
+    width: 335px;
+    height: 250px;
+    border-radius: 15px;
+    
+}
+
+#text {
+    background-color: #BCCEF8;
+    text-align: left;
+    margin-top: 45px;
+    padding: 10px;
+    height: 200px;
+    width: 600px;
+    margin-left: 90px;
+    margin-right: 90px;
+    font-family: Itim;
+    border-radius: 15px;
+}
+
+#result {
+    text-align: center;
+    line-height: 30px;
+}
+
+#louis {
+    text-align: center;
+    font-family: Roboto Mono;
+    
+}
+
+#botao {
+    font-family: Itim;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: #B5D5C5;
+}
+
+#clean {
+    font-family: Itim;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: #AEBDCA;
+}
+
+#botao:hover {
+    background-color: #A0C3D2;
+}
+
+#clean:hover {
+    background-color: #A0C3D2;
+}
